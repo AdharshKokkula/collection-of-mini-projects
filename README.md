@@ -23,7 +23,8 @@ Project Name 7: Foundation Page for the best courses.
 
 Project Name 8: Yoga Page.
 
-Why Explore?
+**Why Explore?**
+
 🌟 Creative Design: These projects showcase my skills in designing visually appealing web pages.
 🚀 Learning Journey: Follow along with my progress and growth as a web developer.
 🛠️ Clean Code: Explore well-structured HTML and CSS code that you can learn from and use in your own projects.
@@ -40,6 +41,9 @@ If you'd like to contribute, please feel free to open issues, suggest improvemen
 
 Contact:
 Author: Adharsh Kokkula
+
 Email: adarshkokkula@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/adharsh-kokkula/
+
 Enjoy exploring my web development mini-projects! If you find them helpful or have any questions, don't hesitate to reach out. 😊
