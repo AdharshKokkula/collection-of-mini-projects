@@ -1,7 +1,7 @@
 # **Web Development Mini-Projects Showcase**
 Welcome to my Web Development Mini-Projects Showcase! 🚀
 
-This repository contains a collection of small web development projects I created while learning HTML and CSS. Each project demonstrates specific skills and techniques in web design and development.
+This repository contains a collection of small web development projects I created while learning HTML and CSS. Each project demonstrates specific skills and techniques in web design and development which is semi-dynamic without a single line of the JavaScript.
 
 For Live Demo: https://adharshprojects.ccbp.tech/
 
