@@ -26,9 +26,13 @@ Project Name 8: Yoga Page.
 **Why Explore?**
 
 🌟 Creative Design: These projects showcase my skills in designing visually appealing web pages.
+
 🚀 Learning Journey: Follow along with my progress and growth as a web developer.
+
 🛠️ Clean Code: Explore well-structured HTML and CSS code that you can learn from and use in your own projects.
+
 📦 Easy to Clone: You can easily clone any project you find interesting and customize it for your needs.
+
 
 Explore Projects: Browse through the projects in the repository and choose the one you'd like to explore further.
 
